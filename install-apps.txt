@@ -1,4 +1,9 @@
-Version 3.0
+Version 4.0
 Notepad++.Notepad++
 TeamViewer.TeamViewer
 GIMP.GIMP
+VideoLAN.VLC
+PuTTY.PuTTY
+WinSCP.WinSCP
+VMware.HorizonClient
+Robware.RVTools
