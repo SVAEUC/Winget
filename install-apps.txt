@@ -7,3 +7,4 @@ PuTTY.PuTTY
 WinSCP.WinSCP
 VMware.HorizonClient
 Robware.RVTools
+RoyalApps.RoyalTS
